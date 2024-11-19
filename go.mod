@@ -2,8 +2,6 @@ module github.com/inngest/inngest
 
 go 1.23.3
 
-toolchain go1.23.3
-
 replace github.com/tencentcloud/tencentcloud-sdk-go v3.0.82+incompatible => github.com/tencentcloud/tencentcloud-sdk-go v1.0.191
 
 require (
